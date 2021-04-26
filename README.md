@@ -21,8 +21,8 @@ Otros items que debes tener presente es que para trabajar con TouchDesigner se n
 Para ese día del taller utilizaremos archivos, que debes descargar en tu ordenador, ubicado en este github: https://github.com/TouchDesigner/Workshop-MutekBA-BCN-2021
 
 Si eres un investigador innato, y quieres familiarizarte con TouchDesigner y su interfaz, te recomendamos le eches un vistazo a estos dos vídeos:
-•	Lo primero que hay que saber sobre TouchDesigner Parte 1: https://derivative.ca/UserGuide/First_Things_to_Know_Part_1_Vid
-•	Lo primero que hay que saber sobre TouchDesigner Parte 2: https://derivative.ca/UserGuide/First_Things_to_Know_Part_2_Vid
+*	Lo primero que hay que saber sobre TouchDesigner Parte 1: https://derivative.ca/UserGuide/First_Things_to_Know_Part_1_Vid
+*	Lo primero que hay que saber sobre TouchDesigner Parte 2: https://derivative.ca/UserGuide/First_Things_to_Know_Part_2_Vid
 
 ### English
 The format for this intensive day of workshops will be to follow along with the instructors building networks in TouchDesigner, participation presumes that everyone has [downloaded](derivative.ca/download), [installed](https://docs.derivative.ca/Install_TouchDesigner) and [keyed](https://docs.derivative.ca/Key_Manager_Dialog#Creating_a_Key) TouchDesigner on their computers. Note that in order to obtain a free key you will have to register an account on [derivative.ca](derivative.ca) by clicking on “My Account” and then selecting “Create New Account”.
