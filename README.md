@@ -11,7 +11,7 @@ This workshop is held in collaboration with [Mutek ES+AR](https://buenos-aires.m
 * Ariel Charec https://buenos-aires.mutek.org
 
 ## Prerequisites:
-The format for this intensive day of workshops will be to follow along with the instructors building networks in TouchDesigner, participation presumes that everyone has [downloaded](derivative.ca/download), [installed](https://docs.derivative.ca/Install_TouchDesigner) and [keyed](https://docs.derivative.ca/Key_Manager_Dialog#Creating_a_Key) TouchDesigner on their computers. Note that in order to obtain a free key you will have to register an account on derivative.ca by clicking on “My Account” and then selecting “Create New Account”.
+The format for this intensive day of workshops will be to follow along with the instructors building networks in TouchDesigner, participation presumes that everyone has [downloaded](derivative.ca/download), [installed](https://docs.derivative.ca/Install_TouchDesigner) and [keyed](https://docs.derivative.ca/Key_Manager_Dialog#Creating_a_Key) TouchDesigner on their computers. Note that in order to obtain a free key you will have to register an account on [derivative.ca](derivative.ca) by clicking on “My Account” and then selecting “Create New Account”.
 
 Our basic system requirements are listed under https://docs.derivative.ca/System_Requirements - we always recommend checking that your video card drivers are up to date.
 Working with TouchDesigner requires a 3-button mouse. 
