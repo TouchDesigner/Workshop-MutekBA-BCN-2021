@@ -1,4 +1,4 @@
-# Workshop-MutekBA-BCN-2021
+# Mutek ES + AR 2021 TouchDesigner Workshop
 Workshop files for Mutek Buenos Aires / Barcelona 2021
 
 This workshop is held in collaboration with [Mutek ES+AR](https://buenos-aires.mutek.org)
